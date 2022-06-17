@@ -15,3 +15,10 @@
 4. hello
 
 > life is short, use python!
+
+``` python
+def heelo():
+    print('hello world')
+``` html
+<h1>hello world<h1>
+
